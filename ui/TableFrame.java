@@ -223,7 +223,7 @@ public class TableFrame extends JFrame{
     // Class-wide ui-elements declaration
     private String idUser;
     private JPanel formPanel = new JPanel(new MigLayout());
-    private JLabel titleLabel = new JLabel("CRUD dengan Java Database dan MYSQL");
+    private JLabel titleLabel = new JLabel("CRUD dengan Java Swing dan MYSQL");
     private JLabel nameLabel = new JLabel("Nama");
     private JTextField nameField = new JTextField(50);
     private JLabel addressLabel = new JLabel("Alamat");
