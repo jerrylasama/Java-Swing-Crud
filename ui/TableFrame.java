@@ -1,11 +1,9 @@
 package ui;
 import javax.swing.*;
-import mdlaf.*;
 import db.DBConnection;
 import mdlaf.animation.*;
 import mdlaf.utils.MaterialColors;
 import net.miginfocom.swing.MigLayout;
-import javax.swing.*;
 import java.sql.*;
 import javax.swing.table.DefaultTableModel;
 import java.awt.*;
